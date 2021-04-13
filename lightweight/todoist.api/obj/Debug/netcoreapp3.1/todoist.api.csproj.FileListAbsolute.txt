@@ -1,9 +1,0 @@
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\bin\Debug\netcoreapp3.1\todoist.api.deps.json
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\bin\Debug\netcoreapp3.1\todoist.api.dll
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\bin\Debug\netcoreapp3.1\todoist.api.pdb
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.AssemblyInfoInputs.cache
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.AssemblyInfo.cs
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.csproj.CoreCompileInputs.cache
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.dll
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.pdb
-C:\Users\papi\Desktop\mazaka\lightweight\todoist.api\obj\Debug\netcoreapp3.1\todoist.api.csprojAssemblyReference.cache

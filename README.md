@@ -1,8 +1,8 @@
 # boilerplate
 
-I am creating this for help fast starts.
+I'm building this to help you get started quickly.
 
-I got help from one of my favorite coders Jason.
+I had help from one of my favorite coders, Jason.
 
 https://github.com/cornflourblue/aspnet-core-3-signup-verification-api
 
